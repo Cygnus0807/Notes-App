@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#6200EA</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPrimary1">#1976D2</color>
+    <color name="colorPrimaryDark1">#1565C0</color>
+    <color name="colorPrimaryLight">#64B5F6</color>
+
+    <!-- Accent Colors -->
+    <color name="colorAccent2">#FF5722</color>
+    <color name="colorAccentDark">#E64A19</color>
+    <color name="colorAccentLight">#FF8A65</color>
+    <color name="colorAccentLight1">#00796B</color>
+    <color name="colorAccentLight2">#80CBC4</color>
+
+    <!-- Text Colors -->
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorGray">#888888</color>
+    <color name="colorDarkGray">#444444</color>
+    <color name="colorTextPrimary">#333333</color>
+    <color name="colorTextSecondary">#757575</color>
+    <color name="colorTextHint">#AAAAAA</color>
+
+    <!-- Background Colors -->
+    <color name="colorBackground">#F0F0F0</color>
+    <color name="colorBackgroundDark">#121212</color>
+    <color name="colorBackgroundLight">#ECECEC</color>
+    <color name="colorBackgroundPrimary">#6200EA</color>
+    <color name="colorBackgroundSecondary">#03DAC5</color>
+    <color name="colorBackgroundAccent">#FFD600</color>
+    <color name="colorBackgroundError">#FF1744</color>
+    <color name="colorBackgroundSuccess">#00C853</color>
+    <color name="colorBackgroundWarning">#FF9100</color>
+    <color name="colorBackground1">#FFFFFF</color>
+    <color name="colorBackgroundDark1">#212121</color>
+    <color name="colorBackgroundLight1">#F5F5F5</color>
+
+
+
+    <!-- Button Colors -->
+    <color name="colorButtonNormal">#1976D2</color>
+    <color name="colorButtonPressed">#1565C0</color>
+    <color name="colorButtonDisabled">#BDBDBD</color>
+    <color name="colorButtonNormal1">#4CAF50</color>
+    <color name="colorButtonPressed1">#388E3C</color>
+    <color name="colorButtonDisabled1">#BDBDBD</color>
+
+
+    <!-- Divider and Separator Colors -->
+    <color name="colorDivider">#B6B6B6</color>
+    <color name="colorSeparator">#E0E0E0</color>
+
+    <!-- Status Bar and Navigation Bar Colors -->
+    <color name="colorStatusBar">#6200EA</color>
+    <color name="colorNavigationBar">#3700B3</color>
+    <color name="colorStatusBar1">#1976D2</color>
+    <color name="colorNavigationBar1">#1565C0</color>
+
+    <!-- Other Custom Colors -->
+    <color name="colorGreen">#00C853</color>
+    <color name="colorRed">#FF1744</color>
+    <color name="colorBlue">#2962FF</color>
+
+
+
+    <!-- Matte Color Shades in RGB -->
+    <color name="colorMatteBlueShade1">#BBDEFB</color>
+    <color name="colorMatteBlueShade2">#90CAF9</color>
+    <color name="colorMatteBlueShade3">#64B5F6</color>
+    <color name="colorMatteBlueShade4">#42A5F5</color>
+    <color name="colorMatteBlueShade5">#2196F3</color>
+
+    <color name="colorMatteGreenBlueShade1">#B2DFDB</color>
+    <color name="colorMatteGreenBlueShade2">#80CBC4</color>
+    <color name="colorMatteGreenBlueShade3">#4DB6AC</color>
+    <color name="colorMatteGreenBlueShade4">#26A69A</color>
+    <color name="colorMatteGreenBlueShade5">#009688</color>
+
+    <color name="colorMatteRedShade1">#FFCDD2</color>
+    <color name="colorMatteRedShade2">#EF9A9A</color>
+    <color name="colorMatteRedShade3">#E57373</color>
+    <color name="colorMatteRedShade4">#EF5350</color>
+    <color name="colorMatteRedShade5">#F44336</color>
+    <color name="colorMatteShade4">#37474F</color>
+    <color name="colorMatteShade5">#263238</color>
+    <color name="colorMatteShade6">#80CBC4</color>
+    <color name="colorMatteShade7">#4DB6AC</color>
+    <color name="colorMatteShade8">#26A69A</color>
+    <color name="colorMatteShade9">#009688</color>
+    <color name="colorMatteShade10">#00897B</color>
+
+    <color name="gray">#cdc9c3</color>
+    <color name="ggreen">#c6ebc9</color>
+    <color name="lightgreen">#cfffa5</color>
+    <color name="skyblue">#a7c5eb</color>
+    <color name="pink">#f3e6e3</color>
+    <color name="color1">#efbbcf</color>
+    <color name="color2">#d6b0b1</color>
+    <color name="color3">#ccf6c8</color>
+    <color name="color4">#ffe0ac</color>
+    <color name="color5">#e5cfe5</color>
+
+
+
+</resources>

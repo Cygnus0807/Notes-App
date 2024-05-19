@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashScreen"
+    android:background="#EF9A9A">
+
+    <ImageView
+        android:id="@+id/imagesplash"
+        android:layout_width="133dp"
+        android:layout_height="131dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/notesappicon1">
+
+    </ImageView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="NOTE APP"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="#00897B"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/imagesplash">
+
+    </TextView>
+
+</RelativeLayout>
